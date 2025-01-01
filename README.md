@@ -9,4 +9,4 @@ After 2 hours of fine tuning on A40 (48GB) GPU using the best training parameter
 **NOTE**  
 
 **1. Download [openai/whisper-tiny](https://huggingface.co/openai/whisper-tiny) and [dataset](https://huggingface.co/datasets/Hunterhere/CBU0521DD_stories_expanded) from Hugging Face first**  
-**2. Please run `data_augment.ipynb` to regenerate full datasets**  
+**2. Run `data_augment.ipynb` to regenerate augmented dataset on original [audios](https://github.com/CBU5201Datasets/Deception) if you want**  
