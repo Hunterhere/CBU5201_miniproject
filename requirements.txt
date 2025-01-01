@@ -1,0 +1,10 @@
+librosa
+matplotlib
+datasets
+transformers
+torch
+accelerate
+pandas
+audiomentations
+ipykernel
+evaluate

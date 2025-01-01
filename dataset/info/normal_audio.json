@@ -1,0 +1,702 @@
+[
+    {
+        "id":0,
+        "filename":"00001.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":1,
+        "filename":"00002.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":2,
+        "filename":"00003.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":3,
+        "filename":"00004.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":4,
+        "filename":"00005.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":5,
+        "filename":"00006.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":6,
+        "filename":"00007.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":7,
+        "filename":"00008.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":8,
+        "filename":"00009.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":9,
+        "filename":"00010.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":10,
+        "filename":"00011.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":11,
+        "filename":"00012.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":12,
+        "filename":"00013.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":13,
+        "filename":"00014.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":14,
+        "filename":"00015.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":15,
+        "filename":"00016.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":16,
+        "filename":"00017.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":17,
+        "filename":"00018.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":18,
+        "filename":"00019.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":19,
+        "filename":"00020.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":20,
+        "filename":"00021.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":21,
+        "filename":"00022.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":22,
+        "filename":"00023.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":23,
+        "filename":"00024.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":24,
+        "filename":"00025.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":25,
+        "filename":"00026.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":26,
+        "filename":"00027.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":27,
+        "filename":"00028.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":28,
+        "filename":"00029.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":29,
+        "filename":"00030.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":30,
+        "filename":"00031.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":31,
+        "filename":"00032.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":32,
+        "filename":"00033.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":33,
+        "filename":"00034.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":34,
+        "filename":"00035.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":35,
+        "filename":"00036.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":36,
+        "filename":"00037.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":37,
+        "filename":"00038.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":38,
+        "filename":"00039.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":39,
+        "filename":"00040.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":40,
+        "filename":"00041.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":41,
+        "filename":"00042.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":42,
+        "filename":"00043.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":43,
+        "filename":"00044.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":44,
+        "filename":"00045.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":45,
+        "filename":"00046.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":46,
+        "filename":"00047.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":47,
+        "filename":"00048.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":48,
+        "filename":"00049.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":49,
+        "filename":"00050.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":50,
+        "filename":"00051.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":51,
+        "filename":"00052.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":52,
+        "filename":"00053.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":53,
+        "filename":"00054.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":54,
+        "filename":"00055.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":55,
+        "filename":"00056.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":56,
+        "filename":"00057.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":57,
+        "filename":"00058.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":58,
+        "filename":"00059.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":59,
+        "filename":"00060.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":60,
+        "filename":"00061.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":61,
+        "filename":"00062.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":62,
+        "filename":"00063.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":63,
+        "filename":"00064.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":64,
+        "filename":"00065.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":65,
+        "filename":"00066.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":66,
+        "filename":"00067.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":67,
+        "filename":"00068.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":68,
+        "filename":"00069.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":69,
+        "filename":"00070.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":70,
+        "filename":"00071.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":71,
+        "filename":"00072.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":72,
+        "filename":"00073.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":73,
+        "filename":"00074.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":74,
+        "filename":"00075.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":75,
+        "filename":"00076.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":76,
+        "filename":"00077.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":77,
+        "filename":"00078.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":78,
+        "filename":"00079.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":79,
+        "filename":"00080.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":80,
+        "filename":"00081.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":81,
+        "filename":"00082.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":82,
+        "filename":"00083.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":83,
+        "filename":"00084.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":84,
+        "filename":"00085.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":85,
+        "filename":"00086.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":86,
+        "filename":"00087.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":87,
+        "filename":"00088.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":88,
+        "filename":"00089.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":89,
+        "filename":"00090.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":90,
+        "filename":"00091.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":91,
+        "filename":"00092.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":92,
+        "filename":"00093.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":93,
+        "filename":"00094.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":94,
+        "filename":"00095.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":95,
+        "filename":"00096.wav",
+        "augment":"none",
+        "Language":"English",
+        "Story_type":"True Story"
+    },
+    {
+        "id":96,
+        "filename":"00097.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":97,
+        "filename":"00098.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    },
+    {
+        "id":98,
+        "filename":"00099.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"Deceptive Story"
+    },
+    {
+        "id":99,
+        "filename":"00100.wav",
+        "augment":"none",
+        "Language":"Chinese",
+        "Story_type":"True Story"
+    }
+]

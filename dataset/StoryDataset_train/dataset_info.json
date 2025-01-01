@@ -1,0 +1,90 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "json",
+  "dataset_size": 26300,
+  "description": "",
+  "download_checksums": {
+    "/home/rongzihua/MiniProject/./dataset/info/train_audio.json": {
+      "num_bytes": 53970,
+      "checksum": null
+    },
+    "/home/rongzihua/MiniProject/./dataset/info/eval_audio.json": {
+      "num_bytes": 13494,
+      "checksum": null
+    }
+  },
+  "download_size": 67464,
+  "features": {
+    "id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "filename": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "augment": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Language": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "audio": {
+      "array": {
+        "feature": {
+          "dtype": "float32",
+          "_type": "Value"
+        },
+        "_type": "Sequence"
+      },
+      "sample_rate": {
+        "dtype": "int64",
+        "_type": "Value"
+      }
+    },
+    "input_features": {
+      "feature": {
+        "feature": {
+          "feature": {
+            "dtype": "float32",
+            "_type": "Value"
+          },
+          "_type": "Sequence"
+        },
+        "_type": "Sequence"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 93764,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 21040,
+      "num_examples": 320,
+      "dataset_name": "json"
+    },
+    "eval": {
+      "name": "eval",
+      "num_bytes": 5260,
+      "num_examples": 80,
+      "dataset_name": "json"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

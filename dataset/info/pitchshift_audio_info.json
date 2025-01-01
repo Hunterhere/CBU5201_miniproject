@@ -1,0 +1,702 @@
+[
+    {
+        "id": 0,
+        "filename": "pitchshift_00001.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 1,
+        "filename": "pitchshift_00002.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 2,
+        "filename": "pitchshift_00003.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 3,
+        "filename": "pitchshift_00004.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 4,
+        "filename": "pitchshift_00005.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 5,
+        "filename": "pitchshift_00006.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 6,
+        "filename": "pitchshift_00007.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 7,
+        "filename": "pitchshift_00008.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 8,
+        "filename": "pitchshift_00009.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 9,
+        "filename": "pitchshift_00010.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 10,
+        "filename": "pitchshift_00011.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 11,
+        "filename": "pitchshift_00012.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 12,
+        "filename": "pitchshift_00013.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 13,
+        "filename": "pitchshift_00014.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 14,
+        "filename": "pitchshift_00015.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 15,
+        "filename": "pitchshift_00016.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 16,
+        "filename": "pitchshift_00017.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 17,
+        "filename": "pitchshift_00018.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 18,
+        "filename": "pitchshift_00019.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 19,
+        "filename": "pitchshift_00020.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 20,
+        "filename": "pitchshift_00021.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 21,
+        "filename": "pitchshift_00022.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 22,
+        "filename": "pitchshift_00023.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 23,
+        "filename": "pitchshift_00024.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 24,
+        "filename": "pitchshift_00025.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 25,
+        "filename": "pitchshift_00026.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 26,
+        "filename": "pitchshift_00027.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 27,
+        "filename": "pitchshift_00028.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 28,
+        "filename": "pitchshift_00029.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 29,
+        "filename": "pitchshift_00030.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 30,
+        "filename": "pitchshift_00031.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 31,
+        "filename": "pitchshift_00032.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 32,
+        "filename": "pitchshift_00033.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 33,
+        "filename": "pitchshift_00034.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 34,
+        "filename": "pitchshift_00035.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 35,
+        "filename": "pitchshift_00036.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 36,
+        "filename": "pitchshift_00037.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 37,
+        "filename": "pitchshift_00038.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 38,
+        "filename": "pitchshift_00039.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 39,
+        "filename": "pitchshift_00040.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 40,
+        "filename": "pitchshift_00041.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 41,
+        "filename": "pitchshift_00042.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 42,
+        "filename": "pitchshift_00043.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 43,
+        "filename": "pitchshift_00044.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 44,
+        "filename": "pitchshift_00045.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 45,
+        "filename": "pitchshift_00046.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 46,
+        "filename": "pitchshift_00047.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 47,
+        "filename": "pitchshift_00048.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 48,
+        "filename": "pitchshift_00049.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 49,
+        "filename": "pitchshift_00050.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 50,
+        "filename": "pitchshift_00051.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 51,
+        "filename": "pitchshift_00052.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 52,
+        "filename": "pitchshift_00053.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 53,
+        "filename": "pitchshift_00054.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 54,
+        "filename": "pitchshift_00055.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 55,
+        "filename": "pitchshift_00056.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 56,
+        "filename": "pitchshift_00057.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 57,
+        "filename": "pitchshift_00058.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 58,
+        "filename": "pitchshift_00059.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 59,
+        "filename": "pitchshift_00060.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 60,
+        "filename": "pitchshift_00061.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 61,
+        "filename": "pitchshift_00062.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 62,
+        "filename": "pitchshift_00063.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 63,
+        "filename": "pitchshift_00064.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 64,
+        "filename": "pitchshift_00065.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 65,
+        "filename": "pitchshift_00066.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 66,
+        "filename": "pitchshift_00067.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 67,
+        "filename": "pitchshift_00068.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 68,
+        "filename": "pitchshift_00069.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 69,
+        "filename": "pitchshift_00070.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 70,
+        "filename": "pitchshift_00071.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 71,
+        "filename": "pitchshift_00072.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 72,
+        "filename": "pitchshift_00073.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 73,
+        "filename": "pitchshift_00074.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 74,
+        "filename": "pitchshift_00075.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 75,
+        "filename": "pitchshift_00076.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 76,
+        "filename": "pitchshift_00077.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 77,
+        "filename": "pitchshift_00078.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 78,
+        "filename": "pitchshift_00079.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 79,
+        "filename": "pitchshift_00080.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 80,
+        "filename": "pitchshift_00081.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 81,
+        "filename": "pitchshift_00082.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 82,
+        "filename": "pitchshift_00083.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 83,
+        "filename": "pitchshift_00084.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 84,
+        "filename": "pitchshift_00085.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 85,
+        "filename": "pitchshift_00086.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 86,
+        "filename": "pitchshift_00087.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 87,
+        "filename": "pitchshift_00088.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 88,
+        "filename": "pitchshift_00089.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 89,
+        "filename": "pitchshift_00090.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 90,
+        "filename": "pitchshift_00091.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 91,
+        "filename": "pitchshift_00092.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 92,
+        "filename": "pitchshift_00093.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 93,
+        "filename": "pitchshift_00094.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 94,
+        "filename": "pitchshift_00095.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 95,
+        "filename": "pitchshift_00096.wav",
+        "augment": "pitchshift",
+        "Language": "English",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 96,
+        "filename": "pitchshift_00097.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 97,
+        "filename": "pitchshift_00098.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    },
+    {
+        "id": 98,
+        "filename": "pitchshift_00099.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "Deceptive Story"
+    },
+    {
+        "id": 99,
+        "filename": "pitchshift_00100.wav",
+        "augment": "pitchshift",
+        "Language": "Chinese",
+        "Story_type": "True Story"
+    }
+]

@@ -1,0 +1,10 @@
+2024-12-27 13:22:32,963 - INFO -                  precision    recall  f1-score   support
+
+Deceptive Story       0.85      0.70      0.77        40
+     True Story       0.74      0.88      0.80        40
+
+       accuracy                           0.79        80
+      macro avg       0.80      0.79      0.79        80
+   weighted avg       0.80      0.79      0.79        80
+
+2024-12-27 13:22:32,986 - INFO - 0.7875
